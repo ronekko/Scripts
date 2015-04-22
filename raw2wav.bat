@@ -1,0 +1,1 @@
+sox -e signed-integer -c 1 -b 16 -r 16000 %*
